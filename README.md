@@ -1,3 +1,2 @@
 # Typescript Generator
 
-
