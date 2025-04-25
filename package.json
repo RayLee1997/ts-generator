@@ -1,0 +1,19 @@
+{
+  "name": "ts-generator",
+  "version": "1.0.0",
+  "description": "ts generator demo project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RayLee1997/ts-generator.git"
+  },
+  "author": "yishang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RayLee1997/ts-generator/issues"
+  },
+  "homepage": "https://github.com/RayLee1997/ts-generator#readme"
+}
